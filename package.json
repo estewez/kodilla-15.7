@@ -1,0 +1,14 @@
+{
+  "name": "15.7",
+  "version": "1.0.0",
+  "description": "15.7",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "15.7"
+  ],
+  "author": "Tomasz Pajor",
+  "license": "ISC"
+}

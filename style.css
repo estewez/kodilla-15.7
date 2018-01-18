@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.controls, .results {
+    text-align: center;
+    background-color: steelblue;
+    width: 24vw;
+    padding: 2vh 0;
+    list-style-type: none;
+}
+
+.button {
+    text-decoration: none;
+    color: darkgray;
+    margin: 1vh 2vw;
+    font-size: 3vw;
+    display: inline-block;
+}
+
+.stopwatch, li {
+    text-align: center;
+    background-color: steelblue;
+    width: 24vw;
+    color: darkgray;
+    font-size: 5vw;
+    padding-bottom: 2vh;
+}
